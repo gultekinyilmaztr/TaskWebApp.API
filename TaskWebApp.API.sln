@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWebApp.API", "TaskWebApp.API\TaskWebApp.API.csproj", "{A9E83389-95BF-42BD-8AF4-CAC8EA9A1B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E83389-95BF-42BD-8AF4-CAC8EA9A1B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E83389-95BF-42BD-8AF4-CAC8EA9A1B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E83389-95BF-42BD-8AF4-CAC8EA9A1B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E83389-95BF-42BD-8AF4-CAC8EA9A1B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82C94D3-ADC1-4F60-8BCD-96F534B90CD0}
+	EndGlobalSection
+EndGlobal
